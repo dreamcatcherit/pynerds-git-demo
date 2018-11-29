@@ -13,3 +13,10 @@ https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 **PDF:**
 
 http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf
+
+
+**Video Tutorials:**
+
+https://www.youtube.com/watch?v=ErJyWO8TGoM
+
+https://www.youtube.com/watch?v=aj8ifYrzGas
