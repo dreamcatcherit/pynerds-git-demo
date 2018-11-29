@@ -10,3 +10,6 @@ https://help.github.com/articles/ignoring-files/
 
 https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
+**PDF:**
+
+http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf
