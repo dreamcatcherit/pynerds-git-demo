@@ -20,3 +20,7 @@ http://latextrack.sourceforge.net/github-tutorial/github-tutorial.pdf
 https://www.youtube.com/watch?v=ErJyWO8TGoM
 
 https://www.youtube.com/watch?v=aj8ifYrzGas
+
+**Other Links:**
+
+https://blog.gitprime.com/a-practical-guide-to-using-gitignore/
