@@ -1,4 +1,4 @@
-#Ignoring files
+Ignoring files
 
 **Summary:**
 
