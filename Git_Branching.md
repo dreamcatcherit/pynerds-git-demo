@@ -1,4 +1,4 @@
-**Git Branching**
+**git_branching**
 
 **Git** stores a **branch** as a reference to a commit instead of copying files
 from directory to directory.
