@@ -1,4 +1,5 @@
-#Merging vs Rebasing
+Merging vs Rebasing
+===================
 
 **Summary:**
 
